@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+auto_model/
+.vscode/
+.devcontainer/
+structured_data_classifier/
+structured_data_regressor/
+*.png
+*.yaml
+write_influxdb_HA.py
+*.csv
